@@ -45,3 +45,6 @@ broker/nbactions-Server.xml
 
 maven-metadata.xml
 /.gradle/
+.vscode/
+*/bin/
+gradle.properties

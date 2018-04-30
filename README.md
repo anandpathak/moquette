@@ -79,3 +79,8 @@ After a git clone of the repository, cd into the cloned sources and: `./gradlew 
 
 In distribution/build directory will be produced the selfcontained file for the broker with all dependencies and a running script. 
   
+
+## build and upload to artifactory
+
+`./gradlew build artifactoryPublish`
+
